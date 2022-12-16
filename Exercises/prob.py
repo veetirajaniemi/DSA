@@ -1,6 +1,5 @@
 import random
 
-
 def algorithm(L):
     k = 0
     for i in range(1,L+1):
